@@ -39,23 +39,6 @@ A concept platform designed to detect plant diseases through image analysis and 
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artjolzaimii&theme=tokyo-night"/>
-</p>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=artjolzaimii&show_icons=true&hide=issues&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artjolzaimii&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## Contact
 
 If you would like to collaborate or connect:
