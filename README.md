@@ -14,10 +14,6 @@ Software Engineer | AI Enthusiast | Builder
 
 ## Featured Projects
 
-### Library Management System
-A full-stack digital library platform that enables users to browse books, submit reviews, purchase or borrow books, and manage orders. The platform also includes a dedicated administrative dashboard for managing users, authors, books, and system activity.
-
----
 
 ### RetroRevive – Classic Car Platform
 A web platform designed for exploring and purchasing classic cars. The system allows users to browse vintage car collections, view detailed information, and interact with listings from different traders.
@@ -26,6 +22,36 @@ A web platform designed for exploring and purchasing classic cars. The system al
 
 ### Smart Agriculture Diagnosis Platform *(Research Project)*
 A concept platform designed to detect plant diseases through image analysis and provide treatment recommendations using machine learning models.
+
+---
+
+## Collaborative Projects
+
+### Smart Parking Management & Billing System
+A modular parking management platform designed to manage parking sessions, billing, penalties, and monitoring.
+
+Course: Software Testing  
+
+Repository:  
+https://github.com/Shpetim10/Parking-Management-System
+
+---
+
+### EternalLibrary – Online Library Management System
+
+Full-featured web-based platform for managing books, authors, orders, and digital library interactions.
+
+Course: Web Technologies And Programming 
+
+Key features:
+• Book catalog browsing and filtering  
+• Online book purchasing and borrowing  
+• Review and rating system  
+• E-book access and downloads  
+• Administrative dashboard for managing users, books, authors, and orders  
+
+Repository:  
+https://github.com/artjolzaimii/Library-Management-System
 
 ---
 
