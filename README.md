@@ -32,10 +32,10 @@ A concept platform designed to detect plant diseases through image analysis and 
 ## Areas of Interest
 
 • Software Engineering  
-• Distributed Systems  
+• Distributed Systems and Scalable Platforms  
 • Artificial Intelligence  
 • Machine Learning  
-• Software Architecture  
+• Software Architecture and System Design 
 
 ---
 
