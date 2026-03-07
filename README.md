@@ -43,8 +43,11 @@ A concept platform designed to detect plant diseases through image analysis and 
 ## GitHub Statistics
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=artjolzaimii&show_icons=true&theme=tokyonight"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artjolzaimii&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
