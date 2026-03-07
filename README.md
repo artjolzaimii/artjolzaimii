@@ -1,6 +1,5 @@
-# Hello, I'm Artjol Zaimi
-
-Software Engineering student focused on building practical software systems and exploring modern technologies in web development, software architecture, and intelligent platforms.
+# Hi, I'm Artjol Zaimi
+Software Engineer | AI Enthusiast | Builder
 
 ---
 
@@ -43,11 +42,8 @@ A concept platform designed to detect plant diseases through image analysis and 
 ## GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=artjolzaimii&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artjolzaimii&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=artjolzaimii&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=artjolzaimii&layout=compact&theme=tokyonight" />
 </p>
 
 ---
