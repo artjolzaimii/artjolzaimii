@@ -14,15 +14,14 @@
 
 ---
 
-
 ## Featured Projects
 
 ### 📰 Newsy — Modern News Platform
-> *Internship Project · Datasqware*
+> *Internship Project · [Datasqware](https://github.com/Datasqware)*
 
 A news aggregation and publishing platform built on **Next.js**, integrating external news APIs to deliver categorized, multilingual content through a clean and responsive interface. Designed for performance across desktop and mobile.
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `REST APIs`
+`Next.js` `TypeScript` `React` `Tailwind CSS` `REST APIs` `Supabase`
 
 ---
 
@@ -58,7 +57,7 @@ A full-stack marketplace for classic car enthusiasts — users can browse vintag
 
 A full-featured digital library platform covering book catalog management, online purchasing and borrowing, e-book access, reviews, and an admin dashboard for complete content control.
 
-`Full-Stack Web` `Admin Dashboard` `REST`
+`Full-Stack Web` `Admin Dashboard` `PHP`
 
 ---
 
@@ -78,13 +77,15 @@ End-to-end system design project covering the full software modeling lifecycle: 
 
 ## Technical Skills
 
-| Domain | Technologies |
+| Category | Technologies |
 |---|---|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Bootstrap, JavaScript |
-| **Backend** | PHP, Python, REST APIs |
-| **Databases** | MySQL |
-| **AI / ML** | TensorFlow, Computer Vision, Streamlit |
-| **Design & Architecture** | UML, System Design, Software Modeling |
+| **Programming Languages** | Java, Python, JavaScript, TypeScript, PHP |
+| **Frontend Development** | React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS |
+| **Backend Development** | FastAPI, REST APIs |
+| **Databases** | MySQL, PostgreSQL, Supabase |
+| **Artificial Intelligence / ML** | TensorFlow, Computer Vision, Streamlit |
+| **Software Engineering** | Object-Oriented Programming (OOP), Design Patterns, Software Architecture |
+| **System Design & Modeling** | UML, System Design, Software Modeling |
 
 ---
 
