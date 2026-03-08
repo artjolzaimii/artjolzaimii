@@ -1,77 +1,104 @@
-# Hi, I'm Artjol Zaimi
-Software Engineer | AI Enthusiast | Builder
+<div align="center">
+
+# Artjol Zaimi
+
+**Software Engineer · AI Enthusiast · Builder**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artjolzaimi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:artjolzaimi04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/DeeRekt-Live%20Project-222222?style=flat&logo=vercel&logoColor=white)](https://deerekt.com)
+
+*Final-year Software Engineering student based in Albania — passionate about scalable systems, AI, and building things that matter.*
+
+</div>
 
 ---
 
-## About Me
-
-• Software Engineering student  
-• Based in Albania  
-• Interested in full-stack development, software architecture, and Artificial Intelligence  
-• Passionate about building scalable software platforms and intelligent digital systems
-
----
 
 ## Featured Projects
 
+### 📰 Newsy — Modern News Platform
+> *Internship Project · Datasqware*
 
-### RetroRevive – Classic Car Platform
-A web platform designed for exploring and purchasing classic cars. The system allows users to browse vintage car collections, view detailed information, and interact with listings from different traders.
+A news aggregation and publishing platform built on **Next.js**, integrating external news APIs to deliver categorized, multilingual content through a clean and responsive interface. Designed for performance across desktop and mobile.
 
----
-
-### Smart Agriculture Diagnosis Platform *(Research Project)*
-A concept platform designed to detect plant diseases through image analysis and provide treatment recommendations using machine learning models.
+`Next.js` `TypeScript` `React` `Tailwind CSS` `REST APIs`
 
 ---
 
-## Collaborative Projects
+### 🌐 DeeRekt — Architecture Studio Website
+> *Client Project · [deerekt.com](https://deerekt.com)*
 
-### Smart Parking Management & Billing System
-A modular parking management platform designed to manage parking sessions, billing, penalties, and monitoring.
+A fully dynamic portfolio website with a custom-built CMS admin dashboard, allowing a non-technical client to independently manage projects, services, and incoming inquiries — no code required.
 
-Course: Software Testing  
-
-Repository:  
-https://github.com/Shpetim10/Parking-Management-System
+`PHP` `MySQL` `JavaScript` `Bootstrap`
 
 ---
 
-### EternalLibrary – Online Library Management System
+### ♻️ Smart Garbage Classifier
+> *AI / Computer Vision · [Live Demo](https://garbage-classifier-with-computer-vision.streamlit.app/) · [Repo](https://github.com/Shpetim10/Garbage-Classifier-with-Computer-Vision)*
 
-Full-featured web-based platform for managing books, authors, orders, and digital library interactions.
+AI-powered web application that classifies waste items from images using deep learning and provides contextual recycling guidance. Supports both file upload and real-time camera capture.
 
-Course: Web Technologies And Programming 
+`Python` `TensorFlow` `Streamlit` `Computer Vision`
 
-Key features:
-• Book catalog browsing and filtering  
-• Online book purchasing and borrowing  
-• Review and rating system  
-• E-book access and downloads  
-• Administrative dashboard for managing users, books, authors, and orders  
+---
 
-Repository:  
-https://github.com/artjolzaimii/Library-Management-System
+### 🚗 RetroRevive — Classic Car Platform
+> *Personal Project · [Repo](https://github.com/artjolzaimii/RetroRevive)*
+
+A full-stack marketplace for classic car enthusiasts — users can browse vintage vehicles, view detailed listings, and compare offers from multiple traders.
+
+`PHP` `MySQL` `JavaScript` `jQuery` `Bootstrap`
+
+---
+
+### 📚 EternalLibrary — Online Library Management System
+> *Web Technologies Course · [Repo](https://github.com/artjolzaimii/Library-Management-System)*
+
+A full-featured digital library platform covering book catalog management, online purchasing and borrowing, e-book access, reviews, and an admin dashboard for complete content control.
+
+`Full-Stack Web` `Admin Dashboard` `REST`
+
+---
+
+### 🚗 Smart Parking Management & Billing System
+> *Software Testing Course · [Repo](https://github.com/Shpetim10/Parking-Management-System)*
+
+Modular system for managing parking sessions, billing calculations, penalties, and monitoring — built with a focus on testability and clean architecture.
+
+---
+
+### 🏥 Hospital Management System — Software Modeling
+> *Software Modeling & Design Course · [Repo](https://github.com/Shpetim10/Hospital-Management-System)*
+
+End-to-end system design project covering the full software modeling lifecycle: requirements engineering, UML diagrams (use case, class, sequence, activity, state), ERD, and design pattern analysis.
+
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Bootstrap, JavaScript |
+| **Backend** | PHP, Python, REST APIs |
+| **Databases** | MySQL |
+| **AI / ML** | TensorFlow, Computer Vision, Streamlit |
+| **Design & Architecture** | UML, System Design, Software Modeling |
 
 ---
 
 ## Areas of Interest
 
-• Software Engineering  
-• Distributed Systems and Scalable Platforms  
-• Artificial Intelligence  
-• Machine Learning  
-• Software Architecture and System Design 
+- Software Architecture & Distributed Systems
+- Artificial Intelligence & Machine Learning
+- Scalable Platform Engineering
+- System Design & Software Modeling
 
 ---
 
-## Contact
+<div align="center">
 
-If you would like to collaborate or connect:
+*Always building. Always learning.*
 
-Email: artjolzaimi04@gmail.com
-LinkedIn: https://www.linkedin.com/in/artjolzaimi/
-
----
-
-Always building, always learning.
+</div>
