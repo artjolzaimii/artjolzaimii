@@ -35,7 +35,7 @@ A fully dynamic portfolio website with a custom-built CMS admin dashboard, allow
 ---
 
 ### ♻️ Smart Garbage Classifier
-> *AI / Computer Vision · [Live Demo](https://garbage-classifier-with-computer-vision.streamlit.app/) · [Repo](https://github.com/Shpetim10/Garbage-Classifier-with-Computer-Vision)*
+> *AI / Computer Vision - Collaborative Project · [Live Demo](https://garbage-classifier-with-computer-vision.streamlit.app/) · [Repo](https://github.com/Shpetim10/Garbage-Classifier-with-Computer-Vision)*
 
 AI-powered web application that classifies waste items from images using deep learning and provides contextual recycling guidance. Supports both file upload and real-time camera capture.
 
@@ -53,7 +53,7 @@ A full-stack marketplace for classic car enthusiasts — users can browse vintag
 ---
 
 ### 📚 EternalLibrary — Online Library Management System
-> *Web Technologies Course · [Repo](https://github.com/artjolzaimii/Library-Management-System)*
+> *Web Technologies Course - Collaborative Project · [Repo](https://github.com/artjolzaimii/Library-Management-System)*
 
 A full-featured digital library platform covering book catalog management, online purchasing and borrowing, e-book access, reviews, and an admin dashboard for complete content control.
 
@@ -62,7 +62,7 @@ A full-featured digital library platform covering book catalog management, onlin
 ---
 
 ### 🚗 Smart Parking Management & Billing System
-> *Software Testing Course · [Repo](https://github.com/Shpetim10/Parking-Management-System)*
+> *Software Testing Course - Collaborative Project · [Repo](https://github.com/Shpetim10/Parking-Management-System)*
 
 Modular system for managing parking sessions, billing calculations, penalties, and monitoring — built with a focus on testability and clean architecture.
 
