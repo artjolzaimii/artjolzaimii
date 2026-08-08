@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:artjolzaimi04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/DeeRekt-Live%20Project-222222?style=flat&logo=vercel&logoColor=white)](https://deerekt.com)
 
-*Final-year Software Engineering student based in Albania — passionate about scalable systems, AI, and building things that matter.*
 
 </div>
 
