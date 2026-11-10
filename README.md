@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artjolzaimi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:artjolzaimi04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/DeeRekt-Live%20Project-222222?style=flat&logo=vercel&logoColor=white)](https://deerekt.com)
+[![FrigoApp](https://img.shields.io/badge/FrigoApp-Android%20App-B87333?style=flat&logo=android&logoColor=white)](LINK-TO-APK)
 
 
 </div>
@@ -14,6 +15,17 @@
 ---
 
 ## Featured Projects
+
+### 🍎 FrigoApp — Inventory, Sales & Debt Tracker for Fruit Cold Storage
+> *Solo Product · [App Walkthrough](https://drive.google.com/file/d/1Zje2_TOQbUgjuzNBQsp_uqKuKJjx575b/view?usp=drive_link) · [Download Android App](https://drive.google.com/file/d/1cKin5uvSe3Fdf11c2MIHtyAf2NiFUUkK/view?usp=drive_link) · Google Play release in progress*
+
+A mobile app that replaces the paper notebook of Albanian fruit cold-storage businesses. Every bin is weighed and gets a QR label printed over Bluetooth, every room shows live stock, and selling works in two steps: scanned bins wait as totals per variety and owner, the owner records only what each buyer took, and a PDF sale note is shared on WhatsApp. Buyer debts and payments are tracked automatically, and an AI advisor uses live market prices to suggest when to sell.
+
+Built offline-first with queued sync, Supabase with row-level security, crash reporting and over-the-air updates.
+
+`React Native` `Expo` `TypeScript` `Supabase` `PostgreSQL` `TanStack Query` `Sentry` `AI`
+
+---
 
 ### 📰 Newsy — Modern News Platform
 > *Internship Project · [Datasqware](https://github.com/Datasqware)*
@@ -80,10 +92,11 @@ End-to-end system design project covering the full software modeling lifecycle: 
 |---|---|
 | **Programming Languages** | Java, Python, JavaScript, TypeScript, PHP |
 | **Frontend Development** | React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS |
-| **Backend Development** | FastAPI, REST APIs |
+| **Mobile Development** | React Native, Expo, EAS (builds & over-the-air updates) |
+| **Backend Development** | FastAPI, REST APIs, Supabase (Auth, Row-Level Security) |
 | **Databases** | MySQL, PostgreSQL, Supabase |
-| **Artificial Intelligence / ML** | TensorFlow, Computer Vision, Streamlit |
-| **Software Engineering** | Object-Oriented Programming (OOP), Design Patterns, Software Architecture |
+| **Artificial Intelligence / ML** | TensorFlow, Computer Vision, Streamlit, LLM integration |
+| **Software Engineering** | Object-Oriented Programming (OOP), Design Patterns, Software Architecture, Offline-first Sync |
 | **System Design & Modeling** | UML, System Design, Software Modeling |
 
 ---
