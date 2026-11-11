@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artjolzaimi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:artjolzaimi04@gmail.com)
 [![Portfolio](https://img.shields.io/badge/DeeRekt-Live%20Project-222222?style=flat&logo=vercel&logoColor=white)](https://deerekt.com)
-[![FrigoApp](https://img.shields.io/badge/FrigoApp-Android%20App-B87333?style=flat&logo=android&logoColor=white)](LINK-TO-APK)
+[![FrigoApp](https://img.shields.io/badge/FrigoApp-Android%20App-B87333?style=flat&logo=android&logoColor=white)]((https://drive.google.com/file/d/1Zje2_TOQbUgjuzNBQsp_uqKuKJjx575b/view?usp=drive_link))
 
 
 </div>
